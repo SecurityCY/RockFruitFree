@@ -1,1 +1,1 @@
-game.Players.PlayerName:Kick("Function Expire")
+game.Players.LocalPlayer:Kick("Function Expire\nรอมีฟังชั่นใหม่มาจะให้เทสอีก")
